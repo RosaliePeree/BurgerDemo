@@ -1,0 +1,6 @@
+C:\Users\rp\source\repos\private_test\ModelDB\bin\Debug\netstandard2.0\ModelDB.deps.json
+C:\Users\rp\source\repos\private_test\ModelDB\bin\Debug\netstandard2.0\ModelDB.dll
+C:\Users\rp\source\repos\private_test\ModelDB\obj\Debug\netstandard2.0\ModelDB.csproj.CoreCompileInputs.cache
+C:\Users\rp\source\repos\private_test\ModelDB\obj\Debug\netstandard2.0\ModelDB.AssemblyInfoInputs.cache
+C:\Users\rp\source\repos\private_test\ModelDB\obj\Debug\netstandard2.0\ModelDB.AssemblyInfo.cs
+C:\Users\rp\source\repos\private_test\ModelDB\obj\Debug\netstandard2.0\ModelDB.csprojAssemblyReference.cache
